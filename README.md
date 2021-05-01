@@ -62,3 +62,10 @@ In .rst Dateien wird mit Markdown Syntax und speziellen Befehlen das Aussehen un
     .. image:: images/MeinBild.png
       :width: 400
     ```
+### Selber Sphinx installieren
+Um hier beitragen zu können brauchst du Sphinx nicht selber installieren. Nutze einfach [diesen Online-Editor](https://livesphinx.herokuapp.com/). Wenn du es aber schöner findets mit dem richtigen Programm zu arbeiten, oder wenn dieses Projekt dein Interesse an Sphinx geweckt hat, dann solltest du folgenden Schritten folgen:
+- Installiere [python](https://www.python.org/downloads/). Wenn du nicht die neueste Version benutzen möchtest, die pip bereits dazu installiert, dann [installiere auch pip](https://www.liquidweb.com/kb/install-pip-windows/). Pip ist ein paketmanager der es erlaubt, zusätzliche python libraries zu installieren
+- Installiere sphinx über die Powershell mit ``pip install sphinx`` bzw. mit ``pip3 install sphinx``
+- Installiere das Read The Docs Theme mit ``pip install spinx_rtd_theme`` bzw. ``pip3 install spinx_rtd_theme``. Das ändert das Aussehen des generierten Dokumentes, wenn so in der ``source/config.py`` konfiguriert.
+- Wenn du ein neues Projekt erstellen möchtest ist es das einfachste, in einem leeren Ordner ``sphinx-quickstart`` auszuführen
+- Wenn du ein Projekt "bauen", also ein fertiges Dokument generieren möchtest, führe einfach ``make.bat <Dokumenttyp>`` aus. Es stehen [viele Dokumenttypen](https://www.sphinx-doc.org/en/master/man/sphinx-build.html) zu Auswahl, die wichtigsten sind ``html`` und ``pdf``.
