@@ -17,7 +17,7 @@ Wenn du [git](https://git-scm.com/downloads) installiert hast, kannst du mit ``g
 Falls du eine auffrischung zu Git brauchst kannst du einfach in der bestehenden Wissensammlung nachschauen.
 Änderungen bitte als Pull Request formulieren. Wenn du dabei Schwierigkeiten hast, gib gerne Bescheid!
 
-### .rst Dateien
+### .rst Dateien in /source
 In .rst Dateien wird mit Markdown Syntax und speziellen Befehlen das Aussehen und der Inhalt der generierten Dokumente festgelegt. Die ausführliche Dokumentation findet sich [auf der Sphinx Website](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html), weiter unten findest du aber einen kurzen Abriss. Wenn du keine Lust hast Sphinx aufzusetzen empfielt sich [dieses nützliche Tool](https://livesphinx.herokuapp.com/) um die Syntax zu prüfen.
 
 - Normaler Text kann einfach runtergeschrieben werden
