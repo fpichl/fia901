@@ -4,10 +4,12 @@ Ziel dieses Repos ist es, zu sämtlichen für die Ausbildung relevanten Bereiche
 Das Grundprinzip: Die [.rst-Dateien](https://de.wikipedia.org/wiki/ReStructuredText), die sich in source befinden, werden durch [Sphinx](https://www.sphinx-doc.org/) in HTML umgewandelt. Diese können dann mit einem Apache Webserver unter [fia901.ddns.net](http://fia901.ddns.net/) bereitgestellt werden. Bei Fragen dazu gerne auf mich zukommen.
 
 ## Ansehen der Sammlung
-Wenn du die Sammlung einfach nur anschauen möchtest, besuche [fia901.ddns.net](http://fia901.ddns.net/). Unter [fia901.ddns.net/Wissenssammlung.pdf](http://fia901.ddns.net/Wissenssammlung.pdf) kanst du dir alles auch als ein großes Dokument herunterladen.
+ - Wenn du die Sammlung einfach nur anschauen möchtest, besuche [fia901.ddns.net](http://fia901.ddns.net/).
+ - Unter [fia901.ddns.net/Wissenssammlung.pdf](http://fia901.ddns.net/Wissenssammlung.pdf) kanst du dir alles auch als pdf herunterladen. (Achtung: Hübsch sieht die nicht aus!)
+ - Unter [fia901.ddns.net/Wissenssammlung.html](http://fia901.ddns.net/Wissenssammlung.html) kannst du dir alles als ein einziges html Dokument anschauen. Das ist etwas unübersichtlicher, aber lässt sich auch mit ``strg+s`` wegspeichern
 
 ## Wünsche, Anregungen & Verbesserungen
-Wenn du irgendwelche Anmerkungen hast, eröffne einfach ein Issue!
+Wenn du irgendwelche Anmerkungen hast, eröffne einfach ein Issue oder gib mir so Bescheid!
 
 ## Selber Beitragen
 Wenn du auch beisteuern möchtest (danke!), dann wird dir die unten stehende Anleitung helfen. Man selber merkt sich den Stoff natürlich auch einfacher, wenn man ihn nochmal runtergeschrieben hat ;)
