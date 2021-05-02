@@ -1,4 +1,3 @@
-Test
 # Wissenssammlung der FIA901
 Ziel dieses Repos ist es, zu sämtlichen für die Ausbildung relevanten Bereiche Informationen zu sammeln. 
 
