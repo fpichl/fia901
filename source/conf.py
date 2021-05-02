@@ -45,6 +45,8 @@ language = 'de'
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+# use index.rst as main document
+master_doc = 'index'
 
 # -- Options for HTML output -------------------------------------------------
 
