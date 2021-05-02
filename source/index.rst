@@ -1,20 +1,14 @@
-.. FIA901 Wissenssammlung documentation master file, created by
-   sphinx-quickstart on Sat May  1 20:50:01 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to FIA901 Wissenssammlung's documentation!
-==================================================
+======================
+FIA901 Wissenssammlung
+======================
+Eine Zusammenfassung aller relevanten Inhalte unserer Ausbildung
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 4
+   :caption: Inhaltsverzeichnis:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   awe
+   its
+   deutsch
+   englisch
+   wug
