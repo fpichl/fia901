@@ -17,7 +17,10 @@ Wenn du auch beisteuern möchtest (danke!), dann wird dir die unten stehende Anl
 ### Git
 Wenn du [git](https://git-scm.com/downloads) installiert hast, kannst du mit ``git clone https://github.com/pichlerer/fia901.git`` ganz einfach das Repo herunterladen.
 Falls du eine auffrischung zu Git brauchst kannst du einfach in der bestehenden Wissensammlung nachschauen.
-Änderungen bitte als Pull Request formulieren. Wenn du dabei Schwierigkeiten hast, gib gerne Bescheid!
+
+Damit du deine Änderungen als Pull-Request einreichen kannst, klicke oben rechts auf "Fork". Das erstellt eine Kopie des Repos für dein Profil. Das klonst du dir auf deinen Rechner und machst Änderungen. Wenn du zufrieden bist, erstellt du einen Pull-Request. Dazu klickst du **im originalen Repo** auf Pull requests > New pull request > compare across forks. Als base repository wählst du "pichlerer/fia901", als base "master". Als head repository wählst du deinen fork und dann deinen branch aus.
+
+Wenn du dabei Schwierigkeiten hast, gib gerne Bescheid!
 
 ### .rst Dateien in /source
 In .rst Dateien wird mit Markdown Syntax und speziellen Befehlen das Aussehen und der Inhalt der generierten Dokumente festgelegt. Die ausführliche Dokumentation findet sich [auf der Sphinx Website](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html), weiter unten findest du aber einen kurzen Abriss. Wenn du keine Lust hast Sphinx aufzusetzen empfielt sich [dieses nützliche Tool](https://livesphinx.herokuapp.com/) um die Syntax zu prüfen.
