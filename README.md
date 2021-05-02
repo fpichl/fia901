@@ -1,5 +1,5 @@
 # Wissenssammlung der FIA901
-Ziel dieses Repos ist es, zu sämtlichen für die Ausbildung relevanten Bereiche Informationen zu sammeln.
+Ziel dieses Repos ist es, zu sämtlichen für die Ausbildung relevanten Bereiche Informationen zu sammeln. 
 
 Das Grundprinzip: Die [.rst-Dateien](https://de.wikipedia.org/wiki/ReStructuredText), die sich in source befinden, werden durch [Sphinx](https://www.sphinx-doc.org/) in HTML umgewandelt. Diese können dann mit einem Apache Webserver unter [fia901.ddns.net](http://fia901.ddns.net/) bereitgestellt werden. Bei Fragen dazu gerne auf mich zukommen.
 
