@@ -4,9 +4,11 @@ Anwendungsentwicklung
 
 Unterrichtet von Herrn Katzberg
 
-#####################
-MSSQL Server Anbindung in Java
-#####################
+Datenbanken - MSSQL Server
+##########################
+
+Anbindung in Java
+-----------------
 
 .. code-block:: java
 
@@ -35,4 +37,4 @@ MSSQL Server Anbindung in Java
         }
     }
  }
-..
+
