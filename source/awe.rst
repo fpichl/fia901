@@ -9,9 +9,10 @@ MSSQL Server Anbindung in Java
 #####################
 
 .. code-block:: java
-import java.sql.*;
 
-public class MSSQL_Java {
+ import java.sql.*;
+
+ public class MSSQL_Java {
     public static void main(String[]  args) throws ClassNotFoundException {
 
         Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
@@ -33,5 +34,5 @@ public class MSSQL_Java {
             throwable.printStackTrace();
         }
     }
-}
+ }
 ..
